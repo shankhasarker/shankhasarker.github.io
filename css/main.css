@@ -41,5 +41,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-
+.profilepic {
+    border-radius:50px;
+    float: left;
+    padding:20px 20px 20px 20px;
+}
     
